@@ -8,7 +8,6 @@ SyncAlyzer is in-browser stock portfolio manager that you can deploy anywhere.
   * [Google Finance Portfolios](#google-finance-portfolios)
 * [Exporting Your Portfolio](#exporting-your-portfolio)
 * [Data Privacy](#data-privacy)
-* [How to Build](#how-to-build)
 
 ## Getting Started
 
