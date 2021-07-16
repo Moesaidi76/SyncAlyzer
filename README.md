@@ -106,4 +106,3 @@ That's it. There's no tracking, no advertisements, and no other API requests.
 
 ## depoloyment 
 - The Heroku deployement is not available yet. Still hanlding some pugs with the deployment and should have an updated link from Heroku soon. 
-- 
